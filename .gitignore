@@ -1,0 +1,4 @@
+features/support/helpers.rb
+screenshots/*
+reports/*
+.DS_Store
